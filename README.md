@@ -8,4 +8,4 @@ Participants: Chiara Bagnardi - Valentina Caldarola - Aureliano Capri - Fabrizio
 
 Owner: La Scuola Open Source [ www.lascuolaopensource.xyz ]
 
-NOTE: This .vfb file is distributed under a SIL Open Font License
+NOTE: This .vfb and .otf files are distributed under a SIL Open Font License
