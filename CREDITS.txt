@@ -1,0 +1,60 @@
+PROJECT OWNER: La Scuola Open Source - Bari (Italy) - www.lascuolaopensource.xyz
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+-----
+
+Tutors
+
+N: Daniele Capo
+E: capo.daniele@gmail.com
+W: www.danielecapo.com
+D: Type Designer - Graphic designer
+
+N: Alessio D’Ellena 
+E: alessio.dellena@gmail.com
+W: www.alessiodellena.com
+D: Type Designer
+
+-----
+
+Glyphs Designers & Contributors
+
+N: Chiara Bagnardi
+E: chiarabagnardi@gmail.com
+W: www.behance.net/chiarabagn63a6
+D: Graphic Designer
+
+N: Valentina Caldarola
+E: v.caldarola@gmail.com
+W: www.behance.net/caldarola
+D: Graphic Designer
+
+N: Aureliano Capri
+E: aurecapri@gmail.com
+W: www.behance.net/macaury
+D: System Designer
+
+N: Fabrizio Jimenez
+E: fabrizio.jimenez@doingstudio.it
+W: www.linkedin.com/in/fabriziojimenez/
+D: Interaction Designer
+
+N: Micol Salomone
+E: blurredmicol@gmail.com
+W: www.micolsalomone.com
+D: Designer & Illustrator
+
+-----
+
+Contributors / Bug Fixers
+
+[…]
+
+-----
+
+Don’t hesitate to contact any of us to receive more info :)
+
+AD MAIORA!
