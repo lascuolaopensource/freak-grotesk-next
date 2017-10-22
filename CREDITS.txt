@@ -2,7 +2,8 @@ PROJECT OWNER: La Scuola Open Source - Bari (Italy) - www.lascuolaopensource.xyz
 
 Acknowledgements
 
-If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). 
+This list is in alphabetical order.
 
 -----
 
