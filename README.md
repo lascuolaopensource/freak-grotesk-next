@@ -2,6 +2,8 @@
 
 Open Source Development for new glyphs in FontLab Studio 
 
+https://www.behance.net/gallery/57483321/Freak-Grotesk-Next-Open-Type-Font-Free-Download
+
 Freak Grotesk Next is a Responsive Typeface with multiple glyphs and Open Type custom Functions
 
 The Font was designed during a collaborative workshop called XYZ 2017 in Bari (Italy) @ La Scuola Open Source  
